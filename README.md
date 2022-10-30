@@ -6,6 +6,7 @@ Three society heads can register their society on the site, each of them can upl
 
 This is a server side rendered version.
 Tech Stack:
+
 ○ Javascript
 
 ○ Node.js
